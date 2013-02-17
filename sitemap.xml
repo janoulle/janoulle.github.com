@@ -1,12 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://janoulle.github.com/blog/2013/hello-world/</loc>
+        <lastmod>2013-02-17T17:59:38-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://janoulle.github.com/blog/archives/</loc>
-        <lastmod>2013-02-17T17:51:46-05:00</lastmod>
+        <lastmod>2013-02-17T17:59:38-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://janoulle.github.com/about/</loc>
+        <lastmod>2013-02-17T17:58:19-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://janoulle.github.com/contact/</loc>
+        <lastmod>2013-02-17T18:00:44-05:00</lastmod>
     </url>
     <url>
         <loc>http://janoulle.github.com/</loc>
-        <lastmod>2013-02-17T17:51:46-05:00</lastmod>
+        <lastmod>2013-02-17T17:59:38-05:00</lastmod>
     </url>
     <url>
         <loc>http://janoulle.github.com/robots.txt</loc>
