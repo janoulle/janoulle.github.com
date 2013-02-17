@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://janoulle.github.com/sitemap.xml 
